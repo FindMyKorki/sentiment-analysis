@@ -1,6 +1,7 @@
+numpy
 pandas
 transformers
 torch
-tabularisai
 scikit-learn
 matplotlib
+openpyxl
